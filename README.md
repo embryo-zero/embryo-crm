@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo CRM
+
+**Embryo CRM** is Embryo-Zero's fork of [twenty](https://github.com/twentyhq/twenty), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <p align="center">
   <a href="https://www.twenty.com">
     <img src="./packages/twenty-website/public/images/core/logo.svg" width="100px" alt="Twenty logo" />
